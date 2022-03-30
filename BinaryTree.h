@@ -1,0 +1,8 @@
+//
+// Created by Foko on 30.03.2022.
+//
+
+#ifndef COURSEWORK1_4_1_BINARYTREE_H
+#define COURSEWORK1_4_1_BINARYTREE_H
+
+#endif //COURSEWORK1_4_1_BINARYTREE_H
